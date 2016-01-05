@@ -1,0 +1,22 @@
+= Why There's No Relationship Version Control
+:hp-tags: Version Control, Git, Code Imitates Life
+:hp-image: https://cdn-images-1.medium.com/max/2000/1*Ws4RCD6Pt8UZwWPEgQY0Fg.jpeg
+
+=== This week allowed me to get more familiar 
+with link:https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control[Version Contro]l. 
+No, I didn’t take another link:https://www.codecademy.com/learn/learn-git[git class]. I would sooner walk barefoot on an Arizona sidewalk than subject myself to such boring drivel. This lesson was unintentional. I have an upcoming job fair so I have been running a fine comb through my link:http://duggiemitchell.github.io[portfolio] to finalize projects for the big day. Somehow, all my hard work got lost. After shedding some frustrated tears, I remembered that git was there to save the day. I was able to go back in time before everything was destroyed.
+It got me thinking: 
+
+=== What if there was a such thing for relationships? 
+
+To be able to reverse mistakes, or circumvent heartache would be a huge leap for mankind. But until then, when your love code is broken, you can only pick up the remaining pieces of yourself and move on.
+
+Without getting too deep into the whole positive-thinking-new-age-movement, I’m reminded that every life event — whether negative or positive — has with it, an opportunity to learn. It’s easy to look on the positives in life as, well, positive. But if you were to examine a situation closely, you may be surprised to find that it is in the negative moments that we experience the most growth. Getting fired from your job allowed you to seek your passion and (potentially) make a living from it. If Jim-Bob hadn’t broke up with you that one summer, you would not have been available to be with your forever-forever when he showed up in the fall. It’s all about perspective. Unfortunately, part of the human condition is that we must learn to live fully despite our negativity bias. That is a fancy psychology term to denote that the psyche of us human-folk is more affected by things of a negative nature than positive. If you aren’t familiar, I would suggest a quick study on the topic as much insight can be gained.
+
+So since I cannot go back in time to fix past commit(ments) I'm left reflecting on what it's taught me.
+
+=== The people in our lives are a reflection of our own self-beliefs. 
+
+Relationships are a mirror, reflecting how we see ourselves internally and to the outside world.  No one can treat you in an any particular way without you first giving them permission.  Each time a boss didn't value me as an employee, it's because I didn't first value myself and the contributions made.  Same goes for family, friends, loved-ones and enemies.  
+
+Git is a powerful tool for developers to create, build and learn together.  But in life, learning from experiences is much more powerful. So if anyone did manage to create Git for life, perhaps these life lessons could not be taught.
