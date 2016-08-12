@@ -1,4 +1,40 @@
 = My first development job was a nightmare
 
-:hp-image: https://cdn-images-1.medium.com/max/900/1*CF2E4CmO0AAt2gIev5w1QA.png
+:hp-image: https://lh3.googleusercontent.com/ghOTCyxbAntxZbp2SBQa-5ma2hG2h9CrPVpV35YuczhHWcWY_3gt9t_i9wRi1SoUIxECmz1BsTI7cZ2-HxyXLBB_TxxSkaFcScqqS36RBHtYYJl7fnc5FdtkV_cWBBZ_zXF6qz9WYkaQ4GVY6Ui_q516cXm9Q8wpNB3rthb15oqvssqSxAJqZjyHFDEeQhAH7pvx7J3wXH0aJWuuKZZVmkEInwEXvVORxztz54n3uOyqeHQw1IUCTABEG9kTH720k0VTnEa4jj7zRBnZ2S8JklkEYiSHUA0H5RTCkiE5TWb3PTJmkj_R4GplV__l8K9ofRsJI01FtVFu_uTzN5IuH6LnkxHDUgZd_3v0meh4CKdHHgiIBt80VRr8u2fQYEM-55l4rEiz_VSZhGRg2IqTabV1u4n6HZ2sGOldVKtid_981KDYAB451G_Kutu9EuTPEBboWkPYkN2IpTMfqVELAQDMPyX7pKCQU1OnGcCusOwFG_0SAGog1Di4cgudhPbthgKNnoeJt5yZbbux02EJGd_pWBpA_H8wv9cxam3Q3B9P0aOins_RMhO7xjFYclNZwH6Ff7BSuDnqloeaRaBOM6KN4x_teEk=w796-h1193-no
 
+:hp-tags: blackGirlsCode, women in technology, coding, african-american, woman
+
+Words cannot express the pure joy felt when the fruits of your labor blossom, and you drink from the sweet nectar of success. That is precisely how I would describe my state of mind when job offers came rolling in. Little old me, who has overcome so much — poverty, homelessness, public assistance, single-motherhood — has finally grabbed life by the horns and made her own way.
+
+With that being said, what I thought was a dream come true turned out to be just short of a nightmare, and it didn’t take long to realize, my road to success had only just begun.
+
+Let me start by saying that the company I worked for seems nice, I wouldn’t know as I was only permitted on the payroll for one month. During that month I made more money than perhaps I would have made in a quarter employed as a call center/customer service/sales rep; my previous ‘profession’.
+
+If you’ve never worked in a call center, they have a way of training the psyche of employees to fear authority, grovel at the feet of those who sign off time sheets, and leave said employee feeling slightly less human at the end of the day.
+Here I am with my shiny new dev skills, and a new since of purpose and accomplishment juggling job offers, when a year before, I was a brow beaten sales lady.
+The thing is that, even though I had the skills, acing technical interviews, and in possession of a wonderful power to make websites do my bidding, I didn’t believe it for myself. This is what I — and many others I believe — call impostor syndrome. 
+
+And I’ve got it bad.
+
+Truthfully, my lead likely could not code his way out of a brown paper bag. My first project given, I was instructed to use some old jQuery plug-in with four year old documentation, when I knew in my heart that youmightnotneedjquery.
+He was also, in a way, afraid of me. I could not quite pinpoint it, but something in the way he would avoid eye contact and send me a message on Slack, rather than just pop over to my desk. We sat right next to each other.
+
+My very good friend and co-organizer for blackGirlsCode(2) has an eerily similar story. Her first job was just as nightmarish and she was fired with excuses of ‘you aren’t catching on to things quite quick enough’. I too was told the same, but when you have two days to build a site from ‘scratch’ (whatever the f**k that means) don’t get mad if your minimal viable product is super minimal.
+
+My frustrations began to bleed through and I could see the team slowly distancing themselves from me. Not inviting me to lunch. Having meetings without me. Questions directed towards anyone to gain clarity (I am, afterall, new) were met with blank stares and thinly veiled confusion, or told, why are you trying to change it? (uh, ’cause its spaghetti code). They had no clue what they were doing.
+
+Now, again, I am about one year into coding, I’ve barely scratched the surface of all the nuances involved with doing this professionally. And there in-lies it’s greatness. It took me a total of six weeks to learn everything there is to know about being a recruiter. How to talk to people, how to negotiate salary, federal laws that govern employment.
+Coding, however, is only for life-learners. The folks that dedicate their lives to the very thing that sustains them (i.e. pays them). I would even go so far to categorize myself as a hobbyist.
+
+For context, Charlotte is a banking town. In fact, it is the second largest financial center in the US. Because of this, you can’t walk two feet at a tech meetup without walking into a developer who’s sold their soul to Wells Fargo or Bank of America. You corner one of the old-timers on the verge of retirement at a bar and they’ll tell you how many days left until he cashes out. While chatting with one, 278 days from retirement, he confessed his refusal to learn anything new. And that, it seems the sentiment of other folks I’ve met along the way who just don’t give a damn about knowing anything other than Java or C#.
+
+(I don’t mean any disrespect, Kiley, I love you!)
+
+
+I try to be as language agnostic as possible, and choose the best tools for the job. That being said, I will not blindly go with the status quo, wear the uniform (stupid tee and wrinkled jeans) or conform to any one person’s idea of what a developer should look/talk/walk/eat like.
+
+But, back to my original point of my employer. The very minute I began to question whether or not I belonged there was the minute things went sour.
+
+My thoughts were should I have these opinions? will they know I’m not worth the salary I negotiated? will I be fired? Oh no, I’m late, again, I’ll be fired.
+
+Believe it or not, people can feel your fear. They can see right through to the very thing you try to hide. So, dear code newbie, (truly) know your worth, and never question your greatness for one, single, solitary moment. And if you are faced with similar situations, or self-doubt, even when you work for a bunch of fucktards, DO NOT be afraid to tell them just how much of a fucktard they are being. Last time I heard, there were 25,000 other development jobs that need to be filled.
