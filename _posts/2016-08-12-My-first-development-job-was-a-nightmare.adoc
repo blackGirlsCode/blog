@@ -1,0 +1,4 @@
+= My first development job was a nightmare
+
+:hp-image: https://cdn-images-1.medium.com/max/900/1*CF2E4CmO0AAt2gIev5w1QA.png
+
